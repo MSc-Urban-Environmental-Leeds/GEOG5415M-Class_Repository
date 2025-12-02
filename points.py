@@ -34,7 +34,7 @@ points_list = [
     [ 31.473338429173076, 74.46975891032893, "Lanzhou noodles-LCC" ],
     [ 34.635559760774335, 112.43468890635228, "Kathy's favourite Chinese restaurant"],
     [ -1.2939176549857483, 36.7912645075393, "Rayan's favourite place to eat tilapia"],
-    
+    [-33.96904151001219, 25.66956207277164,"weijia's favorite place to travel in South Africa"],
 
     [  53.800350,-1.539687, "Chenxis favourite Thai Restaurant"],
 ]
