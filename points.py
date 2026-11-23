@@ -5,7 +5,7 @@
 # ****************** EDIT BELOW ******************
 # Add your point as a new item in the list. 
 # Create a new line for your point, and don't forget the square brackets and the comma
-# Poinst should be in the following format:
+# Points should be in the following format:
 # [ latitude, longitude, "description" ],
 
 points_list = [
